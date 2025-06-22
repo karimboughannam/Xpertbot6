@@ -42,7 +42,6 @@ jobs:
           source venv/bin/activate
           pytest --html=reports/XpertbotLogin \
                  -k "Xpertbot Login" \
-                 -n 5 \
                  --css=reports/assets/style.css
         env:
           DISPLAY: 99.0
