@@ -12,7 +12,7 @@ from pages.Xpertbotlogin import Xpert6
 @pytest.mark.usefixtures("LaunchDriver")
 class TestXpertbotLogin:
     log=AutomationLogger.automation()
-    test_data= AutomationLogger.get_newest_excel_file("C:\\Users\\KarimBouGhannam\\Documents\\Xpert6\\testdata","Sheet1")
+    test_data= AutomationLogger.get_newest_excel_file("testdata","Sheet1")
     @pytest.mark.parametrize("test_data", test_data)
     # This test will run for each row in the test data
     def test_login(self,test_data):
