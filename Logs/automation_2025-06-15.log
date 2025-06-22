@@ -1,0 +1,476 @@
+2025-06-15 07:21:01,520 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:21:01,529 - XpertLogin - INFO - Location email
+2025-06-15 07:21:01,674 - XpertLogin - INFO - Sent username
+2025-06-15 07:21:11,593 - TestXpertbotLogin - INFO - Login successful
+2025-06-15 07:23:53,067 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:23:53,078 - XpertLogin - INFO - Location email
+2025-06-15 07:23:53,631 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:03,779 - TestXpertbotLogin - INFO - Login successful
+2025-06-15 07:24:03,790 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:24:03,795 - XpertLogin - INFO - Location email
+2025-06-15 07:24:03,795 - XpertLogin - INFO - Location email
+2025-06-15 07:24:03,854 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:03,854 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:07,024 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65577fe75+79173]
+	GetHandleVerifier [0x0x7ff65577fed0+79264]
+	(No symbol) [0x0x7ff655539e5a]
+	(No symbol) [0x0x7ff655590586]
+	(No symbol) [0x0x7ff65559083c]
+	(No symbol) [0x0x7ff6555e4247]
+	(No symbol) [0x0x7ff6555b89af]
+	(No symbol) [0x0x7ff6555e100d]
+	(No symbol) [0x0x7ff6555b8743]
+	(No symbol) [0x0x7ff6555814c1]
+	(No symbol) [0x0x7ff655582253]
+	GetHandleVerifier [0x0x7ff655a4a2ad+3004797]
+	GetHandleVerifier [0x0x7ff655a446fd+2981325]
+	GetHandleVerifier [0x0x7ff655a63350+3107360]
+	GetHandleVerifier [0x0x7ff65579a9fe+188622]
+	GetHandleVerifier [0x0x7ff6557a228f+219487]
+	GetHandleVerifier [0x0x7ff655788dc4+115860]
+	GetHandleVerifier [0x0x7ff655788f79+116297]
+	GetHandleVerifier [0x0x7ff65576f528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:24:07,299 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:24:07,304 - XpertLogin - INFO - Location email
+2025-06-15 07:24:07,304 - XpertLogin - INFO - Location email
+2025-06-15 07:24:07,304 - XpertLogin - INFO - Location email
+2025-06-15 07:24:07,423 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:07,423 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:07,423 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:10,624 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65577fe75+79173]
+	GetHandleVerifier [0x0x7ff65577fed0+79264]
+	(No symbol) [0x0x7ff655539e5a]
+	(No symbol) [0x0x7ff655590586]
+	(No symbol) [0x0x7ff65559083c]
+	(No symbol) [0x0x7ff6555e4247]
+	(No symbol) [0x0x7ff6555b89af]
+	(No symbol) [0x0x7ff6555e100d]
+	(No symbol) [0x0x7ff6555b8743]
+	(No symbol) [0x0x7ff6555814c1]
+	(No symbol) [0x0x7ff655582253]
+	GetHandleVerifier [0x0x7ff655a4a2ad+3004797]
+	GetHandleVerifier [0x0x7ff655a446fd+2981325]
+	GetHandleVerifier [0x0x7ff655a63350+3107360]
+	GetHandleVerifier [0x0x7ff65579a9fe+188622]
+	GetHandleVerifier [0x0x7ff6557a228f+219487]
+	GetHandleVerifier [0x0x7ff655788dc4+115860]
+	GetHandleVerifier [0x0x7ff655788f79+116297]
+	GetHandleVerifier [0x0x7ff65576f528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:24:10,901 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:24:10,907 - XpertLogin - INFO - Location email
+2025-06-15 07:24:10,907 - XpertLogin - INFO - Location email
+2025-06-15 07:24:10,907 - XpertLogin - INFO - Location email
+2025-06-15 07:24:10,907 - XpertLogin - INFO - Location email
+2025-06-15 07:24:11,023 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:11,023 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:11,023 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:11,023 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:14,238 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65577fe75+79173]
+	GetHandleVerifier [0x0x7ff65577fed0+79264]
+	(No symbol) [0x0x7ff655539e5a]
+	(No symbol) [0x0x7ff655590586]
+	(No symbol) [0x0x7ff65559083c]
+	(No symbol) [0x0x7ff6555e4247]
+	(No symbol) [0x0x7ff6555b89af]
+	(No symbol) [0x0x7ff6555e100d]
+	(No symbol) [0x0x7ff6555b8743]
+	(No symbol) [0x0x7ff6555814c1]
+	(No symbol) [0x0x7ff655582253]
+	GetHandleVerifier [0x0x7ff655a4a2ad+3004797]
+	GetHandleVerifier [0x0x7ff655a446fd+2981325]
+	GetHandleVerifier [0x0x7ff655a63350+3107360]
+	GetHandleVerifier [0x0x7ff65579a9fe+188622]
+	GetHandleVerifier [0x0x7ff6557a228f+219487]
+	GetHandleVerifier [0x0x7ff655788dc4+115860]
+	GetHandleVerifier [0x0x7ff655788f79+116297]
+	GetHandleVerifier [0x0x7ff65576f528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:24:14,505 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:24:14,512 - XpertLogin - INFO - Location email
+2025-06-15 07:24:14,512 - XpertLogin - INFO - Location email
+2025-06-15 07:24:14,512 - XpertLogin - INFO - Location email
+2025-06-15 07:24:14,512 - XpertLogin - INFO - Location email
+2025-06-15 07:24:14,512 - XpertLogin - INFO - Location email
+2025-06-15 07:24:14,790 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:14,790 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:14,790 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:14,790 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:14,790 - XpertLogin - INFO - Sent username
+2025-06-15 07:24:18,045 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff65577fe75+79173]
+	GetHandleVerifier [0x0x7ff65577fed0+79264]
+	(No symbol) [0x0x7ff655539e5a]
+	(No symbol) [0x0x7ff655590586]
+	(No symbol) [0x0x7ff65559083c]
+	(No symbol) [0x0x7ff6555e4247]
+	(No symbol) [0x0x7ff6555b89af]
+	(No symbol) [0x0x7ff6555e100d]
+	(No symbol) [0x0x7ff6555b8743]
+	(No symbol) [0x0x7ff6555814c1]
+	(No symbol) [0x0x7ff655582253]
+	GetHandleVerifier [0x0x7ff655a4a2ad+3004797]
+	GetHandleVerifier [0x0x7ff655a446fd+2981325]
+	GetHandleVerifier [0x0x7ff655a63350+3107360]
+	GetHandleVerifier [0x0x7ff65579a9fe+188622]
+	GetHandleVerifier [0x0x7ff6557a228f+219487]
+	GetHandleVerifier [0x0x7ff655788dc4+115860]
+	GetHandleVerifier [0x0x7ff655788f79+116297]
+	GetHandleVerifier [0x0x7ff65576f528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:26:59,896 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:26:59,904 - XpertLogin - INFO - Location email
+2025-06-15 07:27:00,020 - XpertLogin - INFO - Sent username
+2025-06-15 07:27:03,152 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:27:28,790 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:27:28,794 - XpertLogin - INFO - Location email
+2025-06-15 07:27:28,871 - XpertLogin - INFO - Sent username
+2025-06-15 07:27:32,001 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:28:38,327 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:28:38,333 - XpertLogin - INFO - Location email
+2025-06-15 07:28:38,411 - XpertLogin - INFO - Sent username
+2025-06-15 07:28:41,619 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:32:10,036 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:32:10,042 - XpertLogin - INFO - Location email
+2025-06-15 07:32:10,185 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:21,402 - TestXpertbotLogin - INFO - Login successful
+2025-06-15 07:32:21,415 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:32:21,419 - XpertLogin - INFO - Location email
+2025-06-15 07:32:21,419 - XpertLogin - INFO - Location email
+2025-06-15 07:32:21,490 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:21,490 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:24,658 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:32:24,889 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:32:24,898 - XpertLogin - INFO - Location email
+2025-06-15 07:32:24,898 - XpertLogin - INFO - Location email
+2025-06-15 07:32:24,898 - XpertLogin - INFO - Location email
+2025-06-15 07:32:25,076 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:25,076 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:25,076 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:28,251 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:32:28,489 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:32:28,492 - XpertLogin - INFO - Location email
+2025-06-15 07:32:28,492 - XpertLogin - INFO - Location email
+2025-06-15 07:32:28,492 - XpertLogin - INFO - Location email
+2025-06-15 07:32:28,492 - XpertLogin - INFO - Location email
+2025-06-15 07:32:28,591 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:28,591 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:28,591 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:28,591 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:31,829 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:32:32,041 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:32:32,049 - XpertLogin - INFO - Location email
+2025-06-15 07:32:32,049 - XpertLogin - INFO - Location email
+2025-06-15 07:32:32,049 - XpertLogin - INFO - Location email
+2025-06-15 07:32:32,049 - XpertLogin - INFO - Location email
+2025-06-15 07:32:32,049 - XpertLogin - INFO - Location email
+2025-06-15 07:32:32,142 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:32,142 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:32,142 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:32,142 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:32,142 - XpertLogin - INFO - Sent username
+2025-06-15 07:32:35,330 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:34:31,224 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:34:31,378 - XpertLogin - INFO - Location email
+2025-06-15 07:34:32,155 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:34:32,318 - XpertLogin - INFO - Location email
+2025-06-15 07:34:32,376 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:34:32,535 - XpertLogin - INFO - Sent username
+2025-06-15 07:34:32,537 - XpertLogin - INFO - Location email
+2025-06-15 07:34:32,742 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:34:32,891 - XpertLogin - INFO - Location email
+2025-06-15 07:34:33,088 - TestXpertbotLogin - INFO - Test started: test_login
+2025-06-15 07:34:33,331 - XpertLogin - INFO - Location email
+2025-06-15 07:34:33,816 - XpertLogin - INFO - Sent username
+2025-06-15 07:34:34,280 - XpertLogin - INFO - Sent username
+2025-06-15 07:34:34,470 - XpertLogin - INFO - Sent username
+2025-06-15 07:34:34,480 - XpertLogin - INFO - Sent username
+2025-06-15 07:34:38,943 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:34:39,552 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:34:40,030 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:34:40,309 - TestXpertbotLogin - ERROR - An error occurred during login: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="nova"]/div/div[2]/div[1]/div[2]/div/button/div"}
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6dfdffe75+79173]
+	GetHandleVerifier [0x0x7ff6dfdffed0+79264]
+	(No symbol) [0x0x7ff6dfbb9e5a]
+	(No symbol) [0x0x7ff6dfc10586]
+	(No symbol) [0x0x7ff6dfc1083c]
+	(No symbol) [0x0x7ff6dfc64247]
+	(No symbol) [0x0x7ff6dfc389af]
+	(No symbol) [0x0x7ff6dfc6100d]
+	(No symbol) [0x0x7ff6dfc38743]
+	(No symbol) [0x0x7ff6dfc014c1]
+	(No symbol) [0x0x7ff6dfc02253]
+	GetHandleVerifier [0x0x7ff6e00ca2ad+3004797]
+	GetHandleVerifier [0x0x7ff6e00c46fd+2981325]
+	GetHandleVerifier [0x0x7ff6e00e3350+3107360]
+	GetHandleVerifier [0x0x7ff6dfe1a9fe+188622]
+	GetHandleVerifier [0x0x7ff6dfe2228f+219487]
+	GetHandleVerifier [0x0x7ff6dfe08dc4+115860]
+	GetHandleVerifier [0x0x7ff6dfe08f79+116297]
+	GetHandleVerifier [0x0x7ff6dfdef528+11256]
+	BaseThreadInitThunk [0x0x7ffcd1d9e8d7+23]
+	RtlUserThreadStart [0x0x7ffcd2ebc34c+44]
+
+2025-06-15 07:34:48,890 - TestXpertbotLogin - INFO - Login successful
