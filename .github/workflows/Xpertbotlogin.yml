@@ -1,0 +1,55 @@
+name: XpertBot Login Workflow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  xpertbotlogin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create Report
+        run: mkdir -p reports/assets
+
+      - name: Run XpertBot Login
+        run: |
+          source venv/bin/activate
+          pytest --html=reports/XpertbotLogin \
+                 -k "Xpertbot Login" \
+                 -n 5 \
+                 --css=reports/assets/style.css
+        env:
+          DISPLAY: 99.0
+
+      - name: Upload Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: Xpertbot Login Report
+          path: reports
